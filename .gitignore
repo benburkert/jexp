@@ -1,0 +1,5 @@
+pkg
+tmp
+bin
+vendor/gems
+gbin
